@@ -138,7 +138,8 @@ All images are stored in the `assets/` directory of this project.
 ![Reports](assets/reports.png)
 
 ### User Management (Admin only)
-![Users](assets/users1.png)
-![Add New](assets/users2.png)
+![Users](assets/user1.png)
+![Add New](assets/user2.png)
 
-Made for Maricel Store with ❤️
+Developed by Me.
+Made for Maricel Store with ❤️.

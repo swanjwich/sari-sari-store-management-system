@@ -106,23 +106,39 @@ This system was created to address the unique needs of Filipino sari-sari stores
 • Papaparse - CSV processing  
 • Lucide React - Beautiful icons  
 
-🎨 Design Philosophy  
-- User-Friendly  
-• Clean, intuitive interface  
-• Minimal learning curve  
-• Clear visual feedback  
-• Mobile-responsive design  
+## 📸 Screenshots
+Here are some of the screenshots showcasing the system user interface.  
+All images are stored in the `assets/` directory of this project.  
 
-- Performance  
-• Fast page loads  
-• Real-time updates  
-• Optimized database queries  
-• Efficient data handling  
+### Login
+![Login](assets/login.png)
 
-- Security  
-• Secure authentication  
-• Protected API routes  
-• Input validation and sanitization  
-• Rate limiting on sensitive endpoints  
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
+### POS
+![POS](assets/POS1.png)
+![Select Payment](assets/POS2.png)
+![Enter Payment](assets/POS3.png)
+![Receipt](assets/POS4_receipt.png)
+
+### Inventory
+![Inventory](assets/inventory1.png)
+![Add Product](assets/inventory2.png)
+![Import Products](assets/inventory3.png)
+
+### Sales
+![Sales History](assets/sales.png)
+
+### Customer Management
+![Customers](assets/customer1.png)
+![Add New Customer](assets/customer2.png)
+
+### Reports
+![Reports](assets/reports.png)
+
+### User Management (Admin only)
+![Users](assets/users1.png)
+![Add New](assets/users2.png)
 
 Made for Maricel Store with ❤️

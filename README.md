@@ -47,11 +47,11 @@ This system was created to address the unique needs of Filipino sari-sari stores
 • Detailed sale views with itemization  
 
 ### 📈 Reports & Business Intelligence
-• Interactive Charts:  
+- Interactive Charts:  
   - Sales trend over time (line chart)  
   - Top 10 products by revenue (bar chart)  
   - Payment method distribution (doughnut chart)  
-• Key Metrics Dashboard:  
+- Key Metrics Dashboard:  
   - Total revenue and profit  
   - Profit margins  
   - Transaction counts  

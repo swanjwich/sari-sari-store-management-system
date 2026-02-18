@@ -29,14 +29,14 @@ This system was created to address the unique needs of Filipino sari-sari stores
 • Stock quantity management  
 
 ### 👥 Customer Management
-• Customer database with contact information  
-• Utang (Credit) System:  
+- Customer database with contact information  
+- Utang (Credit) System:  
   - Track customer balances (negative = debt, positive = prepaid credit)  
   - Record payments with cash or GCash  
   - Payment history and audit trail  
   - Automatic balance calculations  
-• Duplicate prevention (unique phone numbers)  
-• Search and pagination  
+- Duplicate prevention (unique phone numbers)  
+- Search and pagination  
 
 ### 📊 Sales & Analytics
 • Complete transaction history  
@@ -56,70 +56,70 @@ This system was created to address the unique needs of Filipino sari-sari stores
   - Profit margins  
   - Transaction counts  
   - Customer statistics  
-• Export Capabilities:  
+- Export Capabilities:  
   - PDF reports with professional formatting  
   - Excel spreadsheets for further analysis  
   - Print-optimized layouts  
 
 ### 🔐 User Management & Security
-• Authentication:  
+- Authentication:  
   - JWT-based secure login  
   - Password hashing (bcryptjs)  
   - HttpOnly cookies for XSS protection  
   - Rate limiting (5 attempts per 15 minutes)  
-• Role-Based Access Control:  
+- Role-Based Access Control:  
   - Admin: Full system access, user management  
   - Cashier: POS and basic operations  
-• User Features:  
+- User Features:  
   - Profile management  
   - Password change  
   - Activity tracking  
 
 ### 🏠 Dashboard
-• Real-time business metrics:  
+- Real-time business metrics:  
   - Today's sales and transaction count  
   - Total products in inventory  
   - Low stock and out-of-stock alerts  
   - Total outstanding utang  
-• Recent sales activity feed  
-• Alert notifications panel  
-• Quick action shortcuts  
+- Recent sales activity feed  
+- Alert notifications panel  
+- Quick action shortcuts  
 
 ### 🛠️ Technology Stack
-Frontend  
+- Frontend  
 • Next.js 15 - React framework with App Router  
 • TypeScript - Type-safe development  
 • Tailwind CSS - Modern, responsive UI  
 • Chart.js - Interactive data visualizations  
 • React Hot Toast - User notifications  
 
-Backend  
+- Backend  
 • Next.js API Routes - RESTful API endpoints  
 • Prisma ORM - Type-safe database queries  
 • SQLite - Lightweight, file-based database  
 • bcryptjs - Secure password hashing  
 • jsonwebtoken - JWT authentication  
 
-Additional Libraries  
+- Additional Libraries  
 • jsPDF & jspdf-autotable - PDF generation  
 • ExcelJS - Excel file creation  
 • Papaparse - CSV processing  
 • Lucide React - Beautiful icons  
 
 🎨 Design Philosophy  
-User-Friendly  
+- User-Friendly  
 • Clean, intuitive interface  
 • Minimal learning curve  
 • Clear visual feedback  
 • Mobile-responsive design  
 
-Performance  
+- Performance  
 • Fast page loads  
 • Real-time updates  
 • Optimized database queries  
 • Efficient data handling  
 
-Security  
+- Security  
 • Secure authentication  
 • Protected API routes  
 • Input validation and sanitization  
